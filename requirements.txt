@@ -5,3 +5,5 @@ numpy==2.2.3
 tensorboardX==2.2
 matplotlib==3.10.1
 thop==0.1.1.post2209072238
+scikit-image==0.25.2
+scikit-learn==1.6.1
