@@ -327,25 +327,17 @@ Binary classification metric for rain detection:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{rainpredrnn,
-  title={RainPredRNN: Spatiotemporal LSTM for Rainfall Prediction},
-  author={Your Name},
-  year={2026}
+@article{tuyen2022rainpredrnn,
+  title={RainPredRNN: A new approach for precipitation nowcasting with weather radar echo images based on deep learning},
+  author={Tuyen, Do Ngoc and Tuan, Tran Manh and Le, Xuan-Hien and Tung, Nguyen Thanh and Chau, Tran Kim and Van Hai, Pham and Gerogiannis, Vassilis C and Son, Le Hoang},
+  journal={Axioms},
+  volume={11},
+  number={3},
+  pages={107},
+  year={2022},
+  publisher={MDPI}
 }
 ```
-
-## 📄 License
-
-[Add your license here]
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or issues, please open an issue on GitHub.
-
 ---
 
 **Note**: This implementation is designed for radar-based rainfall prediction but can be adapted for other spatiotemporal prediction tasks by modifying the dataset loader and configuration parameters.
